@@ -1,0 +1,10 @@
+pyTelegramBotAPI==4.14.0
+requests==2.31.0
+yt-dlp==2023.12.30
+tiktok-downloader==0.0.2
+python-dotenv==1.0.0
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+redis==5.0.1
+aiohttp==3.9.1
+asyncio==3.4.3
